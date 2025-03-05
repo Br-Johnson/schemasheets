@@ -4,7 +4,7 @@ TODO: this is not yet complete, do not link from index until complete
 
 A data dictionary is a file (or collection of files) which unambiguously declares, defines and annotates all the variables collected in a project and associated to a dataset (_definition: [FAIR cookbook](https://faircookbook.elixir-europe.org/content/recipes/interoperability/creating-data-dictionary.html)).
 
-Schemasheets is an idea framework for managing a data dictionary.
+Schemasheets is an ideal framework for managing a data dictionary.
 
 ## Example Data Dictionary
 
